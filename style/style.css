@@ -22,11 +22,13 @@ div{
     margin-left: 0%;
 }
 video{
-padding: 1%;
-max-height: 300px;
-max-width: 33%;
-width: auto;
-}
+    padding: 1%;
+    max-height: 300px;
+    max-width: 33%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    }
 img{
     padding: 1%;
     max-height: 300px;
