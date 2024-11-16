@@ -3,6 +3,8 @@
 }
 h1{
     font-family: cursive;
+    width: 50%;
+    margin-left: 25%;
 }
 a{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,12 +17,21 @@ a{
 }
 div{
     border: 5px solid black;
-    padding: 1%;
+    padding: 2%;
+    width: auto;
+    margin-left: 0%;
 }
 video{
 padding: 1%;
+max-height: 300px;
+max-width: 33%;
+width: auto;
 }
 img{
     padding: 1%;
+    max-height: 300px;
+    max-width: 33%;
+
 }
+
 
