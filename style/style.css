@@ -1,18 +1,12 @@
-.container{
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
-}
-.frame{
-    display: flex;
-    align-items: baseline;
-    gap: 15px;
-    flex-basis: 100%;
-}
+
 img{
-    width: 25%;
+    width: 12rem;
 }
 video{
     width: 25%;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    
 }
