@@ -3,7 +3,7 @@ img{
     width: 12rem;
 }
 video{
-    width: 25%;
+    width: 100%;
 }
 .item{
     display: flex;
@@ -11,3 +11,20 @@ video{
     padding-bottom: 15px;
     
 }
+body{
+    background-image: linear-gradient(#FAF0D7, #FFD9C0, #8CC0DE, #CCEEBC);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .test{
+    background-image: linear-gradient(#FAF0D7, #FFD9C0, #8CC0DE, #CCEEBC);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  h1{
+    font-family: fantasy;
+    padding-top: 10px;
+  }
+  .align-middle{
+    padding-top: 10%;
+  }
