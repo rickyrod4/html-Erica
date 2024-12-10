@@ -11,7 +11,7 @@ $(document).click(function(){
     $('h1').animate({
         opacity: 0
     }, 500, function(){
-        $(this).text("I Love You Mami!!!").animate({
+        $('h1').text("I Love You Mami!!!").animate({
             opacity: 1
         }, 500);
     });
